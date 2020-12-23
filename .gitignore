@@ -1,0 +1,7 @@
+.idea/
+**/__pycache__/
+**/*.pycmodels/*
+storybro/models/*
+
+models/*
+bin/data/models/*
