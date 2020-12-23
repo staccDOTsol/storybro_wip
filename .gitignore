@@ -1,6 +1,3 @@
 .idea/
 **/__pycache__/
 **/*.pycmodels/*
-
-models/*
-bin/data/models/*
